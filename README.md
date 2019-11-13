@@ -6,4 +6,3 @@ Built-in compilation system, Javascript language implementation, will add strate
 
 my wechat: my2019helloworld
 
-![Screenshot](photo_kline.jpg)
